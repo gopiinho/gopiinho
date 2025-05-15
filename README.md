@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello , I'm Gurpreet
 
-<!--
-**gopiinho/gopiinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a blockchain developer and security researcher. Currently, I am making ethereum applicaiton and focusing on writing secure and robust smart contracts.
 
-Here are some ideas to get you started:
+### What I have been working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [DeployFast](https://deployfast.xyz) - No-Code Solution for Smart Contracts.
+ - [Web3 Frontends](https://web3-frontends.vercel.app/) - Short tutorials on how can anyone get started on startde with dApp development.
+  - [Takeoff](https://takeoff-sigma.vercel.app/) - Solidity version of pump.fun, deploy erc20 tokens on go based on bonding curve logic.
+- [Sympler](https://sympler.xyz) - Simple ERC20 Multichain portfolios.
+- [Atomix](https://github.com/gopiinho/atomix) - Minimal and secure smart contract library of popular Ethereum standards.
+- [Ender Protocol](https://enderprotocol.io) - The Metaverse powered by Liquid staking power.
+
+##  Socials
+
+<p><a target="_blank" href="https://twitter.com/gopiinho" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/gopinho" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.youtube.com/@gopiinho" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a></p>
