@@ -4,9 +4,9 @@ I'm a blockchain developer and security researcher. Currently, I am making ether
 
 ### What I have been working on
 
- - [DeployFast](https://deployfast.xyz) - No-Code Solution for Smart Contracts.
- - [Web3 Frontends](https://web3-frontends.vercel.app/) - Short tutorials on how can anyone get started on startde with dApp development.
-  - [Takeoff](https://takeoff-sigma.vercel.app/) - Solidity version of pump.fun, deploy erc20 tokens on go based on bonding curve logic.
+- [DeployFast](https://deployfast.xyz) - No-Code Solution for Smart Contracts.
+- [Web3 Frontends](https://frontends.gopinho.com/) - Short tutorials on how can anyone get started on startde with dApp development.
+- [Takeoff](https://takeoff.gopinho.com/) - Solidity version of pump.fun, deploy erc20 tokens on go based on bonding curve logic.
 - [Sympler](https://sympler.xyz) - Simple ERC20 Multichain portfolios.
 - [Atomix](https://github.com/gopiinho/atomix) - Minimal and secure smart contract library of popular Ethereum standards.
 - [Ender Protocol](https://enderprotocol.io) - The Metaverse powered by Liquid staking power.
