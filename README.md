@@ -11,6 +11,10 @@ I'm a blockchain developer and security researcher. Currently, I am making ether
 - [Atomix](https://github.com/gopiinho/atomix) - Minimal and secure smart contract library of popular Ethereum standards.
 - [Ender Protocol](https://enderprotocol.io) - The Metaverse powered by Liquid staking power.
 
+### Open-source contributions
+
+- [Swiss-Knife](https://github.com/swiss-knife-xyz/swiss-knife) - Multiple EVM tools at one place.
+
 ##  Socials
 
 <p><a target="_blank" href="https://twitter.com/gopiinho" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
