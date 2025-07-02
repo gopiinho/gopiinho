@@ -4,7 +4,7 @@ I'm a blockchain developer and security researcher. Currently, I am making ether
 
 ### What I have been working on
 
-- [create-w3-app](https://github.com/gopiinho/create-w3-app) - Interactive CLI to create Ethereum Next.js apps. [demo]("https://www.youtube.com/watch?v=CZv-5CdINIo")
+- [create-w3-app](https://github.com/gopiinho/create-w3-app) - Interactive CLI to create Ethereum Next.js apps. 
 - [DeployFast](https://deployfast.xyz) - No-Code Solution for Smart Contracts.
 - [Web3 Frontends](https://frontends.gopinho.com/) - Short tutorials on how can anyone get started on startde with dApp development.
 - [Takeoff](https://takeoff.gopinho.com/) - Solidity version of pump.fun, deploy erc20 tokens on go based on bonding curve logic.
