@@ -16,6 +16,10 @@ I'm a blockchain developer and security researcher. Currently, I am making ether
 
 - [Swiss-Knife](https://github.com/swiss-knife-xyz/swiss-knife) - Multiple EVM tools at one place.
 
+### Notes
+
+- [Proof of work](https://github.com/gopiinho/proof-of-work) - Defi notes and learnings.
+
 ##  Socials
 
 <p><a target="_blank" href="https://twitter.com/gopiinho" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
