@@ -1,7 +1,3 @@
-# Hello , I'm Gurpreet
-
-I'm a blockchain developer and security researcher. Currently, I am making ethereum applicaiton and focusing on writing secure and robust smart contracts.
-
 ### What I have been working on
 
 - [create-w3-app](https://github.com/gopiinho/create-w3-app) - Interactive CLI to create Ethereum Next.js apps. 
