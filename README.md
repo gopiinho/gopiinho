@@ -1,4 +1,4 @@
-### What I have been working on
+### What I have built
 
 - [create-w3-app](https://github.com/gopiinho/create-w3-app) - Interactive CLI to create Ethereum Next.js apps. 
 - [DeployFast](https://deployfast.xyz) - No-Code Solution for Smart Contracts.
@@ -8,7 +8,7 @@
 - [Atomix](https://github.com/gopiinho/atomix) - Minimal and secure smart contract library of popular Ethereum standards.
 - [Ender Protocol](https://enderprotocol.io) - The Metaverse powered by Liquid staking power.
 
-### Open-source contributions
+### Open-source
 
 - [Swiss-Knife](https://github.com/swiss-knife-xyz/swiss-knife) - Multiple EVM tools at one place.
 
