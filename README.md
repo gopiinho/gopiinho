@@ -12,7 +12,10 @@
 
 ### Open-source
 
-- [Swiss-Knife](https://github.com/swiss-knife-xyz/swiss-knife) - Multiple EVM tools at one place.
+- [Swiss-Knife](https://github.com/swiss-knife-xyz/swiss-knife)
+  - EIP-712 hash visalizer - [PR](https://github.com/swiss-knife-xyz/swiss-knife/pull/100)
+  - Tool to view messages and eip712 typed data signatures - [PR](https://github.com/swiss-knife-xyz/swiss-knife/pull/106)
+  
 
 ### Notes
 
