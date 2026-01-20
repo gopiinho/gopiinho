@@ -8,6 +8,7 @@
 - [Takeoff](https://takeoff.gopinho.com/) - Solidity version of pump.fun, deploy erc20 tokens on go based on bonding curve logic.
 - [Sympler](https://github.com/gopiinho/sympler) - Simple ERC20 Multichain portfolios app.
 - [Atomix](https://github.com/gopiinho/atomix) - Minimal and secure smart contract library of popular Ethereum standards.
+- [Affiliate Marketing Platform](https://github.com/gopiinho/affilitate-platform) - [WIP] A webapp with personal branded website and a dashboard to share affiliate marketing links with your followers.
 - [Ender Protocol](https://enderprotocol.io) - The Metaverse powered by Liquid staking power.
 
 ### Open-source
