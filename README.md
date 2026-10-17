@@ -10,7 +10,6 @@ The all-in-one storefront for creators. Sell digital products, courses, coaching
 - [Takeoff](https://takeoff.gopinho.com/) - Solidity version of pump.fun, deploy erc20 tokens on go based on bonding curve logic.
 - [Sympler](https://github.com/gopiinho/sympler) - Simple ERC20 Multichain portfolios app.
 - [Atomix](https://github.com/gopiinho/atomix) - Minimal and secure smart contract library of popular Ethereum standards.
-- [Ender Protocol](https://enderprotocol.io) - The Metaverse powered by Liquid staking power.
 
 ### Open-source
 
