@@ -5,7 +5,7 @@ The all-in-one storefront for creators. Sell digital products, courses, coaching
 - [ValidVote](https://validvote.de) - Validvote delivers transparent, verifiable governance for organizations, DAOs, and communities.
 - [tossoff](https://tossoff.xyz) - PvP coin flip with eth with real time results. 
 - [create-w3-app](https://github.com/gopiinho/create-w3-app) - Interactive CLI to create Ethereum Next.js apps. 
-- [DeployFast](https://deployfast.xyz) - No-Code Solution for Smart Contracts.
+- [DeployFast]([https://deployfast.xyz](https://github.com/gopiinho/deploy-fast)) - No-Code Solution for Smart Contracts.
 - [Web3 Frontends](https://frontends.gopinho.com/) - Short tutorials on how can anyone get started on startde with dApp development.
 - [Takeoff](https://takeoff.gopinho.com/) - Solidity version of pump.fun, deploy erc20 tokens on go based on bonding curve logic.
 - [Sympler](https://github.com/gopiinho/sympler) - Simple ERC20 Multichain portfolios app.
